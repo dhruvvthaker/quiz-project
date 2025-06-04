@@ -31,7 +31,7 @@ A beginner-friendly multiple-choice quiz application built with **Python** and *
 ### Requirements
 
 - Python 3.x
-- Tkinter (usually comes pre-installed with Python)
+- Tkinter
 
 ### Run the App
 

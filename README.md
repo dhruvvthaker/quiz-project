@@ -1,2 +1,41 @@
 # quiz-project
 Multiple Choice Quiz App built with Python and Tkinter featuring light/dark themes, navigation controls, and score evaluation for an interactive learning experience.
+
+# 🎓 Multiple Choice Quiz App (Tkinter)
+
+A beginner-friendly multiple-choice quiz application built with **Python** and **Tkinter**. This app provides a sleek interface with support for light/dark themes and navigable questions, designed to help users test their general knowledge.
+
+---
+
+## 🖥️ Features
+
+- 🧠 **Multiple Choice Questions**  
+- 🌗 **Toggleable Light/Dark Theme**  
+- 🔁 **Previous/Next Question Navigation**  
+- ✅ **Score Evaluation at the End**  
+- ⚠️ **Answer Validation Prompt**  
+- ❌ **Exit Anytime with Quit Button**
+
+---
+
+## 📸 Screenshots
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Light Theme](#) | ![Dark Theme](#) |
+
+> *Replace `#` with actual screenshots if available.*
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+
+- Python 3.x
+- Tkinter (usually comes pre-installed with Python)
+
+### Run the App
+
+```bash
+python quiz_app.py

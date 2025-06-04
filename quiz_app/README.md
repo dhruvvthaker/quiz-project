@@ -20,7 +20,6 @@ A beginner-friendly multiple-choice quiz application built with Python and Tkint
 |---------------|
 | ![Quiz App Screenshot](light.png) |
 
-> Replace `screenshot.png` with your actual screenshot filename.
 
 ---
 

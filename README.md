@@ -20,7 +20,7 @@ A beginner-friendly multiple-choice quiz application built with **Python** and *
 
 | Light Theme | Dark Theme |
 |-------------|------------|
-| ![Light Theme](#) | ![Dark Theme](#) |
+| ![Light Theme](light.png) | ![Dark Theme](dark.png) |
 
 > *Replace `#` with actual screenshots if available.*
 

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correct_answer": 2,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct_answer": 1,
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "What is 15 × 8?",
+    "options": ["110", "120", "130", "140"],
+    "correct_answer": 1,
+    "category": "Mathematics",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "correct_answer": 1,
+    "category": "Literature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct_answer": 3,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "Which programming language is known as the 'language of the web'?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "correct_answer": 2,
+    "category": "Technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Gd", "Go", "Au", "Ag"],
+    "correct_answer": 2,
+    "category": "Science",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "question": "In which year did World War II end?",
+    "options": ["1944", "1945", "1946", "1947"],
+    "correct_answer": 1,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "correct_answer": 2,
+    "category": "Mathematics",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "Which country has the most natural lakes?",
+    "options": ["Canada", "Russia", "USA", "Finland"],
+    "correct_answer": 0,
+    "category": "Geography",
+    "difficulty": "hard"
+  }
+]
